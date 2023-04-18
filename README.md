@@ -1,7 +1,7 @@
 # EX-05-Feature-Generation
 
 
-## AIM
+# AIM
 To read the given data and perform Feature Generation process and save the data to a file. 
 
 # Explanation
@@ -22,7 +22,7 @@ Save the data to the file
 # CODE
 ```
 Name: M.D. Harini
-Reg No. : 212222230175
+Reg No. : 212222230043
 ```
 # Data.csv:
 ```
@@ -191,4 +191,55 @@ df5
 # OUPUT:
 # Data.csv :
 # Initial Dataset:
+![image](https://user-images.githubusercontent.com/113497680/232821655-c1c06fe9-aefe-477f-8103-3fc411316ae0.png)
+# Binary Encoding:
+![image](https://user-images.githubusercontent.com/113497680/232821751-45ffc132-88f6-4c1a-ba8d-8ef3634485f6.png)
+![image](https://user-images.githubusercontent.com/113497680/232821818-31cdaa9b-227c-4b9d-94cd-04753d8e8723.png)
+# Encoded Dataset:
+![image](https://user-images.githubusercontent.com/113497680/232821956-05938865-dcd5-45a6-93ca-63983ad78e04.png)
+# Data Scaling using MinMaxScaler:
+![image](https://user-images.githubusercontent.com/113497680/232822096-44c0ee1c-3ba8-41e7-bcb3-5e4ca0b169be.png)
+# Data Scaling using StandardScaler:
+![image](https://user-images.githubusercontent.com/113497680/232822212-7f26f20a-1208-4d23-85b7-7bc81336cf0d.png)
+# Data Scaling using MaxAbsScaler:
+![image](https://user-images.githubusercontent.com/113497680/232822349-a4532d5a-2b5a-44ab-a05f-36d36a55ccfa.png)
+# Data Scaling using RobustScaler:
+![image](https://user-images.githubusercontent.com/113497680/232822716-8a912669-8853-4dfd-a257-0efe5dcd4f6f.png)
+# Encoding.csv :
+# Initial Dataset:
+![image](https://user-images.githubusercontent.com/113497680/232822926-ae81ef81-b64b-489e-b475-c1a8bc12a626.png)
+# Binary Encoding:
+![image](https://user-images.githubusercontent.com/113497680/232823035-e1ec5298-e17d-44bc-8d8b-c3095a5d890c.png)
+![image](https://user-images.githubusercontent.com/113497680/232823088-771fbfc5-b5bb-4f09-936d-f8cf2d4294b0.png)
+# Encoded Dataset:
+![image](https://user-images.githubusercontent.com/113497680/232823259-b722721f-7c0b-40cf-924c-042c63edd1e1.png)
+# Data Scaling using MinMaxScaler:
+![image](https://user-images.githubusercontent.com/113497680/232823362-1337e495-f0e0-4041-a6b2-9866e3417c10.png)
+# Data Scaling using StandardScaler:
+![image](https://user-images.githubusercontent.com/113497680/232823546-a3393d28-f57d-4939-bc46-1f2442b7cefa.png)
+# Data Scaling using MaxAbsScaler:
+![image](https://user-images.githubusercontent.com/113497680/232823756-e411ba27-bab7-4d5f-a2a6-7ffdf07c6fa1.png)
+# Data Scaling using RobustScaler:
+![image](https://user-images.githubusercontent.com/113497680/232823899-4601a83f-1f1a-42f7-bdeb-966ac4c13635.png)
+# Titanic.csv :
+# Initial Dataset:
+![image](https://user-images.githubusercontent.com/113497680/232824084-94895aaf-338f-462d-8e7c-e8fa8db4a3e2.png)
+# Data cleaning before encoding:
+![image](https://user-images.githubusercontent.com/113497680/232824290-551f8626-1e24-41ff-8e10-ca7fef128144.png)
+# Cleaned Dataset:
+![image](https://user-images.githubusercontent.com/113497680/232824453-ee8aeef3-47f0-442e-99bd-29e5f38fe663.png)
+# Binary Encoding:
+![image](https://user-images.githubusercontent.com/113497680/232824668-2320eb10-7e8d-4595-9db5-2f6f33a359bf.png)
+# Encoded Dataset:
+![image](https://user-images.githubusercontent.com/113497680/232824829-10f15c3d-924b-40b6-bb75-fa4f035d9edb.png)
+# Data Scaling using MinMaxScaler:
+![image](https://user-images.githubusercontent.com/113497680/232824999-2d24508f-6bfd-4fa3-a7e5-185bcbd95275.png)
+# Data Scaling using StandardScaler:
+![image](https://user-images.githubusercontent.com/113497680/232825135-a8cacfa7-7e9b-4e8d-be35-d4125823c9e8.png)
+# Data Scaling using MaxAbsScaler:
+![image](https://user-images.githubusercontent.com/113497680/232825310-94028f28-37e6-4517-8ce9-a5058c99cbd8.png)
+# Data Scaling using RobustScaler:
+![image](https://user-images.githubusercontent.com/113497680/232825457-1c99169e-625f-4036-ad6b-40f2b82fedcb.png)
+# RESULT:
+Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
 
